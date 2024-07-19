@@ -20,13 +20,27 @@ Et le ping fonctionnel :
 
 Le serveur trouve le client par son nom grâce à l'adresse IPv6
 
-![pingServerClient](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-2.pingAvecNom.png)
+![pingServerClientviaNom](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-2.pingAvecNom.png)
 
 ---
 
 #### Question 1.3
 
 Après désactivation du protocole IPv6, voici le résultat d'un ping du serveur vers le client.
-Le ping fonctionne car le DNS a été configuré précédemment pour ma part.
+
+Le ping fonctionne car le DNS a été configuré précédemment pour ma part, en ajoutant un hôte à la zone de recherche "SWEETCAKES" déjà existante.
+
+Résultat ping :
+
+![pingServerClient](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-3.pingAvecNomOK.png)
+
+Configuration DNS :
+
+![configDNS](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-3.configDNS.png)
+
+---
+
+#### Question 1.4
+
 
 
