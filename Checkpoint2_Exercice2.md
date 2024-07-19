@@ -14,11 +14,11 @@
 
 #### Q2.3  
 
-L'option -verb RunAS sert à exécuter le script en tant qu'un autre utilisateur, ici Administrateur
+L'option `-verb RunAS` sert à exécuter le script en tant qu'un autre utilisateur, ici Administrateur
 
 #### Q2.4
 
-L'option -WindowsStyle -Maximized sert à exécuter le script dans une nouvelle fenêtre maximizée
+L'option `-WindowsStyle -Maximized` sert à exécuter le script dans une nouvelle fenêtre maximizée
 
 #### Q2.5
 
