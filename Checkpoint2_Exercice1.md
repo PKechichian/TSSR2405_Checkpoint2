@@ -21,3 +21,12 @@ Et le ping fonctionnel :
 Le serveur trouve le client par son nom grâce à l'adresse IPv6
 
 ![pingServerClient](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-2.pingAvecNom.png)
+
+---
+
+#### Question 1.3
+
+Après désactivation du protocole IPv6, voici le résultat d'un ping du serveur vers le client.
+Le ping fonctionne car le DNS a été configuré précédemment pour ma part.
+
+
