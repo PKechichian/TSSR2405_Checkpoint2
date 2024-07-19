@@ -42,5 +42,23 @@ Configuration DNS :
 
 #### Question 1.4
 
+Le DHCP étant déjà configuré sur le serveur, il suffit de modifier les paramètres IPv4 du client pour qu'il obtienne une adresse IP automatiquement.
+
+![configDNS](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-4.IPauto.png)
+
+---
+
+#### Question 1.5
+
+Le client ne récupère pas la première adresse de la plage car les adresses 172.16.10.1 à 172.16.10.19 sont exclues de la ditribution par le DHCP.
+
+![configDHCP](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-5.DHCP.png)
+
+![IPclientDHCP](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-5.IPclient.png)
+
+---
+
+#### Question 1.6
+
 
 
