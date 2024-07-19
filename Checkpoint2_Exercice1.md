@@ -6,7 +6,7 @@ Le résultat d'un ping entre le serveur et le client renvoie une erreur car l'ad
 
 ![pingServerClient](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-1.pingServCLI.png)
 
-Ci-dessous la configuration IPv4 sur le client pour que ping fonctionne :
+Ci-dessous la configuration IPv4 sur le client pour que le ping fonctionne :
 
 ![configCLI](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-1.configCLI.png)
 
