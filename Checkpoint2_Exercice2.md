@@ -30,7 +30,7 @@ Le champs Description n'est pas pris en compte car il n'est pas lié au champs d
 
 #### Q2.7
 
-Enlever les chanps inutiles dans la définition de la variable `$Users` (ligne 27)
+Enlever les champs inutiles dans la définition de la variable `$Users` (ligne 27)
 
 #### Q2.8
 
