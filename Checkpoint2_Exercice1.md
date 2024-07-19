@@ -54,11 +54,23 @@ Le client ne récupère pas la première adresse de la plage car les adresses 17
 
 ![configDHCP](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-5.DHCP.png)
 
+IP du client :
+
 ![IPclientDHCP](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-5.IPclient.png)
 
 ---
 
 #### Question 1.6
 
+Pour permettre au client d'avoir l'adresse 172.16.10.15, il faut modifier les zones d'exclusions dans le DHCP
 
+![modifDHCP](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-6.modifDHCP.png)
+
+---
+
+#### Question 1.7
+
+L'intérêt de passer en IPv6 serait de ne pas avoir à gérer de DHCP.
+Mais le DHCP n'est pas obsolète pour autant, car il permet d'avoir une gestion pour précise du réseau.
+Il permet de créer des plages comme pour IPv4.
 
