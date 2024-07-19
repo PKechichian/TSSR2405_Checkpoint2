@@ -34,7 +34,7 @@ Enlever les chanps inutiles dans la définition de la variable $Users (ligne 27)
 
 #### Q2.8
 
-Modifier le Write-Host (ligne 50) en `WriteHost "L'utilisateur $Prenom $Nom a été crée avec le mot de passe $password" -ForegroundColor Green`
+Modifier le Write-Host (ligne 50) en `WriteHost "L'utilisateur $Prenom $Nom a été crée avec le mot de passe $pass" -ForegroundColor Green`
 
 #### Q2.9
 
