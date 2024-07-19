@@ -18,3 +18,6 @@ Et le ping fonctionnel :
 
 #### Question 1.2
 
+Le serveur trouve le client par son nom grâce à l'adresse IPv6
+
+![pingServerClient](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-2.pingAvecNom.png)
