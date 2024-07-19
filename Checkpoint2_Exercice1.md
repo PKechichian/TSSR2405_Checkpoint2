@@ -68,9 +68,13 @@ Pour permettre au client d'avoir l'adresse 172.16.10.15, il faut modifier les zo
 
 ---
 
-#### Question 1.7
+#### Question 1.7 - 1.8
 
 L'intérêt de passer en IPv6 serait de ne pas avoir à gérer de DHCP.
+
 Mais le DHCP n'est pas obsolète pour autant, car il permet d'avoir une gestion pour précise du réseau.
+
 Il permet de créer des plages comme pour IPv4.
+
+![IPv6DHCP](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-8.Ipv6DHCP.png)
 
