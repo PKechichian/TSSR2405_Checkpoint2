@@ -46,9 +46,9 @@ Elles cont toutes avoir une adresse en 10.10.X.X
 
 ---
 
-### Analyse de trames
+## Analyse de trames
 
-#### Fichier 1
+### Fichier 1
 
 #### Q3.11
 
@@ -71,7 +71,7 @@ Protocole ARP, qui sert à lié les IP aux adresses MAC
 
 A sert de lien physique entre les machines, B sert de routeur
 
-#### Fichier 2
+### Fichier 2
 
 #### Q3.16
 
@@ -93,7 +93,7 @@ Ne trouvant pas l'hôte 10.11.80.2, le ping repart vers la passerelle par défau
 
 A sert de lien physique, B sert de routeur
 
-#### Fichier 3
+### Fichier 3
 
 #### Q3.21
 
