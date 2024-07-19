@@ -42,7 +42,7 @@ Il n'y aura aucune incidence si on interverti les ports
 
 #### Q3.10
 
-Elles cont toutes avoir une adresse en 10.10.X.X
+Elles vont toutes avoir une adresse en 10.10.X.X
 
 ---
 
@@ -52,7 +52,7 @@ Elles cont toutes avoir une adresse en 10.10.X.X
 
 #### Q3.11
 
-Source: 00:50:79:66:68:00 (00:50:79:66:68:00)
+Source: 00:50:79:66:68:00 
 
 #### Q3.12
 
