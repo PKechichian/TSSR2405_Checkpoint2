@@ -26,15 +26,15 @@ Le premier utilisateur ne s'affiche pas car il est mentionné dans la fonction `
 
 #### Q2.6
 
-Le champs Description n'est pas pris en compte car il n'est pas lié au champs dans la variable $UserInfo (ligne 39). 
+Le champs Description n'est pas pris en compte car il n'est pas lié au champs dans la variable `$UserInfo` (ligne 39). 
 
 #### Q2.7
 
-Enlever les chanps inutiles dans la définition de la variable $Users (ligne 27)
+Enlever les chanps inutiles dans la définition de la variable `$Users` (ligne 27)
 
 #### Q2.8
 
-Modifier le Write-Host (ligne 50) en `WriteHost "L'utilisateur $Prenom $Nom a été crée avec le mot de passe $pass" -ForegroundColor Green`
+Modifier le Write-Host (ligne 51) en `WriteHost "L'utilisateur $Prenom $Nom a été crée avec le mot de passe $pass" -ForegroundColor Green`
 
 #### Q2.9
 
@@ -44,19 +44,19 @@ Rajouter un Write-Host sous le If de vérification
 
 #### Q2.11
 
-Manque un "s" à "Utilisateur" dans la dénomination -Group (ligne 51)
+Manque un "s" à "Utilisateur" dans la dénomination -Group (ligne 50)
 
 #### Q2.12
 
-Créer la variable $Name = "$Prenom.$Nom" et remplacer dans le script
+Créer la variable `$Name = "$Prenom.$Nom"` et remplacer dans le script
 
 #### Q2.13
 
-Changer PasswordNeverExpires (ligne 47) de $false à $true
+Changer `PasswordNeverExpires` (ligne 46) de $false à $true
 
 #### Q2.14
 
-Changer la variable $length de 6 à 12 (ligne 3)
+Changer la variable `$length` de 6 à 12 (ligne 3)
 
 #### Q2.15
 
