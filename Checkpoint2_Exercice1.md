@@ -13,3 +13,8 @@ Ci-dessous la configuration IPv4 sur le client pour que le ping fonctionne :
 Et le ping fonctionnel :
 
 ![pingServerClient](https://github.com/PKechichian/TSSR2405_Checkpoint2/blob/main/Annexes/Q1-1.pingServCLIOK.png)
+
+---
+
+#### Question 1.2
+
